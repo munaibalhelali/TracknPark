@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Track n Park</string>
+    <string name="background_description">background of the parking area</string>
 </resources>
